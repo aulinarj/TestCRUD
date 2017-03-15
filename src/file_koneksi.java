@@ -24,5 +24,5 @@ public class file_koneksi {
         }
         return koneksi;
     }
- }
+}
 
