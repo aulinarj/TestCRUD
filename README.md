@@ -8,3 +8,5 @@
 
 [![Capture.png](https://s12.postimg.org/3l0p0qb0t/Capture.png)](https://postimg.org/image/vxw6r6wqx/)
 [![haha.png](https://s17.postimg.org/g4lwglaxr/haha.png)](https://postimg.org/image/jo7u6ednf/)
+[![dua.png](https://s7.postimg.org/hj7kxm95n/dua.png)](https://postimg.org/image/yjqh6am6v/)
+[![tiga.png](https://s8.postimg.org/mnjsl0p5h/tiga.png)](https://postimg.org/image/4kqptstap/)
